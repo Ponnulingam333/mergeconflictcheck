@@ -1,1 +1,3 @@
-degree:B.sc physics
+
+degree:M.sc physics
+
